@@ -20,12 +20,14 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+  font-family: 'Young Serif', serif;  
 }
 
 h2 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 1.5rem;
+  font-family: 'Young Serif', serif;
 }
 
 .teclado {
